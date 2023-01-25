@@ -29,7 +29,8 @@
   border-radius: 2px;
   padding: 4.5em 5em;
   position: relative;
-  min-height: 260px;
+  min-height: 100px;
+  width: 300px;
   border-radius:5px;
   }
 .flex-container .flex-item:focus {
